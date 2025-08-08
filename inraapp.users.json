@@ -1,0 +1,1035 @@
+[{
+  "_id": {
+    "$oid": "6776dbfd0cae09e51b5d797f"
+  },
+  "fullName": "admin",
+  "password": "$2b$12$65zG3tS4CRyzOnzJd66OIOM0bLoh1aEGjKb1PV5aqiIhO81vRiBkW",
+  "auth_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2Nzc2ZGJmZDBjYWUwOWU1MWI1ZDc5N2YiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3NTA5NDk5MzMsImV4cCI6MTc1MTU1NDczM30.PL6iEGYypS_rCJ2ONCxCUR-qGapGBuGtglAYOZ-W7zk",
+  "role": "admin",
+  "status": "active",
+  "codeCentre": "",
+  "code": "",
+  "created_at": {
+    "$date": "2025-01-02T18:33:31.822Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:31.822Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-26T14:58:53.993Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dbfd0cae09e51b5d7980"
+  },
+  "fullName": "CHETTO Ouiam",
+  "password": "$2b$12$jpmHvN2GFQAbrxH6sVnDpeDKXTWRyMpl4ko6a/UMqX1hzPxRAZnr.",
+  "auth_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2Nzc2ZGJmZDBjYWUwOWU1MWI1ZDc5ODAiLCJyb2xlIjoiY2hlcmNoZXVyIiwiaWF0IjoxNzM4MjM3NjE5LCJleHAiOjE3Mzg4NDI0MTl9.kpR-ItdMecMHqVlHn4G5vEM2K7pC6l_cMr05ZnXyl2c",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C22",
+  "code": "CH001",
+  "created_at": {
+    "$date": "2025-01-02T18:33:33.645Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:33.646Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T11:46:59.370Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dbfe0cae09e51b5d7981"
+  },
+  "fullName": "Hamid BENYAHIA",
+  "password": "$2b$12$q0kC915AQV3De8Ght7NvbeSFmzZSNTbX8HpUQ7PkAK6dMdk8WcOcK",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C22",
+  "code": "CH002",
+  "created_at": {
+    "$date": "2025-01-02T18:33:34.257Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:34.257Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dbff0cae09e51b5d7982"
+  },
+  "fullName": "HAMZA Abdelhak",
+  "password": "$2b$12$Umq0wpKeI9X.vXo1aDKHYu9yj6vpuspfbem584PWL48KkHyPJhIUG",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C22",
+  "code": "CH003",
+  "created_at": {
+    "$date": "2025-01-02T18:33:35.056Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:35.056Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dbff0cae09e51b5d7983"
+  },
+  "fullName": "BENKEN  Lhou",
+  "password": "$2b$12$LTPvKXTo5AHzcDpz3XKjoeh14Em/NhGajApVUZlt3of9EwzJhzHi2",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C22",
+  "code": "CH004",
+  "created_at": {
+    "$date": "2025-01-02T18:33:35.885Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:35.885Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc000cae09e51b5d7984"
+  },
+  "fullName": "ABAIL Zhor",
+  "password": "$2b$12$3G6wRPDudxyq3hW5SofZm.P1dUswrfxMXacHW3UkTYmQr9CaydwJa",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C22",
+  "code": "CH005",
+  "created_at": {
+    "$date": "2025-01-02T18:33:36.498Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:36.498Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc010cae09e51b5d7985"
+  },
+  "fullName": "OMARI Fatima Ezahra",
+  "password": "$2b$12$yD4aEvnHP908vX9IhdhQu.2D4qUpI8aJ2S4gvSYegExf.6BtpUo6W",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C22",
+  "code": "CH006",
+  "created_at": {
+    "$date": "2025-01-02T18:33:37.105Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:37.105Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc020cae09e51b5d7986"
+  },
+  "fullName": "Moutiq Rkia",
+  "password": "$2b$12$7BSJmIbGbOxKSi.LoKpO6OIVVjuYHevso.mMwvaASPaCsl3qIjy7m",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C22",
+  "code": "CH007",
+  "created_at": {
+    "$date": "2025-01-02T18:33:37.797Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:37.797Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc020cae09e51b5d7987"
+  },
+  "fullName": "SMAILI Moulay Chrif",
+  "password": "$2b$12$uaLq2KiuTvnJkIMrH7grJ.guGDiMDz/zz2kHTylNmDLwXrfFKTab2",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C22",
+  "code": "CH008",
+  "created_at": {
+    "$date": "2025-01-02T18:33:38.525Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:38.525Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc030cae09e51b5d7988"
+  },
+  "fullName": "Benssellam El Hassan",
+  "password": "$2b$12$TeNTs10L.TQh85LaJgYrR.tWJtHz1qU/ZZcPERswVydoqQNW.PVvi",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C22",
+  "code": "CH009",
+  "created_at": {
+    "$date": "2025-01-02T18:33:39.142Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:39.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc040cae09e51b5d7989"
+  },
+  "fullName": "Fahad Kaoutar",
+  "password": "$2b$12$ZFjhbOtT6/odowSWzxGWLe0C23GAFDANIr7PeKYRM0EfxAGd1nxfu",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C22",
+  "code": "CH010",
+  "created_at": {
+    "$date": "2025-01-02T18:33:39.965Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:39.965Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc040cae09e51b5d798a"
+  },
+  "fullName": "Afechtal Mohamed",
+  "password": "$2b$12$32g1AcxnAv5pyxTDNFVLh.MZncuXljcI/YX4.b0vJuKcN8WATxXri",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C22",
+  "code": "CH011",
+  "created_at": {
+    "$date": "2025-01-02T18:33:40.577Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:40.578Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc050cae09e51b5d798b"
+  },
+  "fullName": "CHETTO Abdelaziz",
+  "password": "$2b$12$s.Obf/w9XVAwE6iSWGmBju3rlY6dEc/9u.DRJqmzbHBSqEkvTlsHS",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C22",
+  "code": "CH012",
+  "created_at": {
+    "$date": "2025-01-02T18:33:41.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:41.194Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc060cae09e51b5d798c"
+  },
+  "fullName": "SEDKI Mohamed",
+  "password": "$2b$12$3Mqvjtw.g0zo0/.0GKRn/e/pdKN.4HGRuRVyoj17HH6GN7tMrXb/a",
+  "auth_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2Nzc2ZGMwNjBjYWUwOWU1MWI1ZDc5OGMiLCJyb2xlIjoiY2hlcmNoZXVyIiwiaWF0IjoxNzM4MTg5ODc4LCJleHAiOjE3Mzg3OTQ2Nzh9.aMAIcHuBaJg3GHLHkOcz2AINd6gjmxgobfCMuj-maNc",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C22",
+  "code": "CH013",
+  "created_at": {
+    "$date": "2025-01-02T18:33:41.805Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:41.805Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T22:31:18.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc060cae09e51b5d798d"
+  },
+  "fullName": "Belabess Zineb",
+  "password": "$2b$12$wsmV3lY1YSnokPn1.P0WJuTfhsI4wR/xs/CPOL3MkjOfWR5RDjGGu",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C23",
+  "code": "CH001",
+  "created_at": {
+    "$date": "2025-01-02T18:33:42.836Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:42.836Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc070cae09e51b5d798e"
+  },
+  "fullName": "Bentaibi Abderrahim",
+  "password": "$2b$12$/H/X37mIfuJ.xcVHY7Y8COP41jMdzFlNbCMwTkOszbF7mMJPWLf/.",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C23",
+  "code": "CH002",
+  "created_at": {
+    "$date": "2025-01-02T18:33:43.455Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:43.455Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc080cae09e51b5d798f"
+  },
+  "fullName": "Karima Bouhafa",
+  "password": "$2b$12$mW//iL6LATKPaUPV9wFJN.INeto1WXbwgZAw0dhdaH4sO4yUy4aWe",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C23",
+  "code": "CH003",
+  "created_at": {
+    "$date": "2025-01-02T18:33:44.096Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:44.096Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc090cae09e51b5d7990"
+  },
+  "fullName": "CHARAFI Jamal",
+  "password": "$2b$12$K6hGZfAUlh6NiyZuEe75f.hUIs42Dqvnc2u8wEdSoq.zx//LoKBK.",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C23",
+  "code": "CH004",
+  "created_at": {
+    "$date": "2025-01-02T18:33:44.895Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:44.895Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc090cae09e51b5d7991"
+  },
+  "fullName": "Chetto Oumaima",
+  "password": "$2b$12$y.K4nWebbj0Qp0ibK7fnx.DglmpyDgPmO8sdbXHdOoa0LFwMdyIHC",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C23",
+  "code": "CH005",
+  "created_at": {
+    "$date": "2025-01-02T18:33:45.696Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:45.696Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc0a0cae09e51b5d7992"
+  },
+  "fullName": "Daoui Khalid",
+  "password": "$2b$12$TPvojWJVa7lyDs3Pnxcr4uKcemOmr/AO9XmQtn9cueX72fsccttAC",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C23",
+  "code": "CH006",
+  "created_at": {
+    "$date": "2025-01-02T18:33:46.496Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:46.496Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc0b0cae09e51b5d7993"
+  },
+  "fullName": "El Bakkali Ahmed",
+  "password": "$2b$12$68Wgx85y.xKnGsDRnHAF3uhyHC/NRR91GO4wSEbD70/hwt2Fv1ygK",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C23",
+  "code": "CH007",
+  "created_at": {
+    "$date": "2025-01-02T18:33:47.104Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:47.104Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc0b0cae09e51b5d7994"
+  },
+  "fullName": "El Harsal Mariam",
+  "password": "$2b$12$mdYfQ5mTETb/Ueq/FiEH7ucVDIl.faxA05EBBu8ZIq/K2R2ztnZkS",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C23",
+  "code": "CH008",
+  "created_at": {
+    "$date": "2025-01-02T18:33:47.715Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:47.715Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc0c0cae09e51b5d7995"
+  },
+  "fullName": "El Iraqui Houssaini Salma",
+  "password": "$2b$12$m.7CLtmTn2aofyv1A7VQquMFEi2of1BWm891U0MCLeAWH6Ab0VlBi",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C23",
+  "code": "CH009",
+  "created_at": {
+    "$date": "2025-01-02T18:33:48.326Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:48.326Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc0d0cae09e51b5d7996"
+  },
+  "fullName": "Fadlaoui Aziz ",
+  "password": "$2b$12$u505ojlQhbx2dwksjyTc9.le2ctRvupPd1HbiatmbINP42ebXtxWS",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C23",
+  "code": "CH010",
+  "created_at": {
+    "$date": "2025-01-02T18:33:48.934Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:48.934Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc0d0cae09e51b5d7997"
+  },
+  "fullName": "Ibtissame Guirrou ",
+  "password": "$2b$12$Ka9sI8etm/aS.VCcN8aC7eICbq0ie19wfP5aHE3hD8FUjw0wnjHg.",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C23",
+  "code": "CH011",
+  "created_at": {
+    "$date": "2025-01-02T18:33:49.555Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:49.555Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc0e0cae09e51b5d7998"
+  },
+  "fullName": "Habbadi Khaoula",
+  "password": "$2b$12$EQEgWlXUBBPwrcFkJieUauUem1E3OZFSw8IIWIgErT8M/jd29ephi",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C23",
+  "code": "CH012",
+  "created_at": {
+    "$date": "2025-01-02T18:33:50.317Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:50.317Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc0f0cae09e51b5d7999"
+  },
+  "fullName": "Lahcen HSSAINI",
+  "password": "$2b$12$YbDLS9RboiWPUdafLcmj..33i6Kx6LuK/X/xLYxwg1Fi/4o2Lhceq",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C23",
+  "code": "CH013",
+  "created_at": {
+    "$date": "2025-01-02T18:33:51.105Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:51.105Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc0f0cae09e51b5d799a"
+  },
+  "fullName": "Amal Labaioui",
+  "password": "$2b$12$V4M3dvN6jCBlvcfXhnkl3eB.YNB5KGicI77I..ehtV9iuTNbMlXLi",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C23",
+  "code": "CH014",
+  "created_at": {
+    "$date": "2025-01-02T18:33:51.715Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:51.715Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc100cae09e51b5d799b"
+  },
+  "fullName": "Meziani Reda",
+  "password": "$2b$12$JNcW9a8EQycGfLMMTSdhs.KSoXTBAIfOOhAyIWSluG3z37LjEKzfi",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C23",
+  "code": "CH015",
+  "created_at": {
+    "$date": "2025-01-02T18:33:52.446Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:52.446Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc110cae09e51b5d799c"
+  },
+  "fullName": "NABLOUSSI Abdelghani",
+  "password": "$2b$12$zpmm9kSAGpPFr2gq9TW9.ey3xKLFvsAWcekzQH6X9MbEfRQnjgeLK",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C23",
+  "code": "CH016",
+  "created_at": {
+    "$date": "2025-01-02T18:33:53.256Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:53.256Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc120cae09e51b5d799d"
+  },
+  "fullName": "Razouk Rachid",
+  "password": "$2b$12$o3DBJzCGKJCAlOqXGbxu.ezkmko56/2LzSaExME6O7qaJXTvSWRLi",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C23",
+  "code": "CH017",
+  "created_at": {
+    "$date": "2025-01-02T18:33:53.965Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:53.965Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc120cae09e51b5d799e"
+  },
+  "fullName": "IBNELBACHYR MUSTAPHA",
+  "password": "$2b$12$s2SOLhRQCe10BH2XcgEJh.4AfDnidIVvimkvhktFDvvBOdM1vOmK6",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C24",
+  "code": "CH001",
+  "created_at": {
+    "$date": "2025-01-02T18:33:54.578Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:54.578Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc130cae09e51b5d799f"
+  },
+  "fullName": "SABRI Ahmed",
+  "password": "$2b$12$LpouiwsuLLkqOcFGFHRv2.PWS0/.z1sruKdJeBLYyBOHe2Dok/b/O",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C24",
+  "code": "CH002",
+  "created_at": {
+    "$date": "2025-01-02T18:33:55.215Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:55.215Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc140cae09e51b5d79a0"
+  },
+  "fullName": "HOMRANI BAKALI Abdelmonam",
+  "password": "$2b$12$BInHe7qMs7hsSt2ntySiFOFYbZqDq6i3uDscT4sEfrLBU1iecii3K",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C24",
+  "code": "CH003",
+  "created_at": {
+    "$date": "2025-01-02T18:33:56.005Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:56.005Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc140cae09e51b5d79a1"
+  },
+  "fullName": "BOUHLALI Eimad Dine Tariq",
+  "password": "$2b$12$.Sb4G4e8D.wsUqnq5CrL3es.5oA.9DSNNxr6hG2zNrfatAv1Zflom",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C24",
+  "code": "CH004",
+  "created_at": {
+    "$date": "2025-01-02T18:33:56.715Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:56.715Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc160cae09e51b5d79a2"
+  },
+  "fullName": "Souhail CHANNAOUI",
+  "password": "$2b$12$DmaDYdrvg0xoc5lLnVssl.9rbErW03nKU5qiYBxmPC2EHlhdZqY7.",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C24",
+  "code": "CH005",
+  "created_at": {
+    "$date": "2025-01-02T18:33:57.345Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:57.345Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc170cae09e51b5d79a3"
+  },
+  "fullName": "MISBAH Asmae",
+  "password": "$2b$12$m5b/ycRsoZy4q/vDB1FXrepkKkKgN5VXgs/O9IRuxA2IdLbBj38MS",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C24",
+  "code": "CH006",
+  "created_at": {
+    "$date": "2025-01-02T18:33:58.986Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:58.986Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc170cae09e51b5d79a4"
+  },
+  "fullName": "AQIL Safae",
+  "password": "$2b$12$aRPGbXzTefZirQ4BL1FCcevDNCyDorYmthD37oYe5G5UpFK3CfWwy",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C24",
+  "code": "CH007",
+  "created_at": {
+    "$date": "2025-01-02T18:33:59.626Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:33:59.626Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc180cae09e51b5d79a5"
+  },
+  "fullName": "Boumane Marouane",
+  "password": "$2b$12$utcGLbA9fuOfNOpVbdOSkOCIJU8kLIjA26mYqMy5vaASbfYKPMRCi",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C24",
+  "code": "CH008",
+  "created_at": {
+    "$date": "2025-01-02T18:34:00.246Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:34:00.246Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc180cae09e51b5d79a6"
+  },
+  "fullName": "Essarioui Adil",
+  "password": "$2b$12$bnSvZPmQXhjrCB0Gt3KEBOE2CRKy5Hs2r1JeCHCtySWQU8mJra0ay",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C24",
+  "code": "CH009",
+  "created_at": {
+    "$date": "2025-01-02T18:34:00.856Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:34:00.856Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc190cae09e51b5d79a7"
+  },
+  "fullName": "Laamari Abdelali",
+  "password": "$2b$12$M0AQuwBNRezjBOwItKmPpulG7c6Jvu0kl/cpSiRV5WKn9ONt8453K",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C28",
+  "code": "CH001",
+  "created_at": {
+    "$date": "2025-01-02T18:34:01.468Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:34:01.468Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc1a0cae09e51b5d79a8"
+  },
+  "fullName": "SATIA LAILA ",
+  "password": "$2b$12$iHuWlCp3mwOlvmqgxNcCz.cswngv.bDY6OGoPUjWb.QwHUm2hVTLK",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C28",
+  "code": "CH002",
+  "created_at": {
+    "$date": "2025-01-02T18:34:02.165Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:34:02.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc1b0cae09e51b5d79a9"
+  },
+  "fullName": "SIBAOUEIH Mounia",
+  "password": "$2b$12$ES7Uu6vwdI7ZEbI1rGqLVOXjFWhBSWY8EYh4/L1LgQ3LibeXq0M7O",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C28",
+  "code": "CH003",
+  "created_at": {
+    "$date": "2025-01-02T18:34:02.965Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:34:02.965Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc1c0cae09e51b5d79aa"
+  },
+  "fullName": "SAHRI ALI",
+  "password": "$2b$12$.Q8N40jZc1sMVY49MNiouOL34dNoLs7k4gjjFkK4CloUiFvZuS0pe",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C28",
+  "code": "CH004",
+  "created_at": {
+    "$date": "2025-01-02T18:34:03.805Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:34:03.805Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc1c0cae09e51b5d79ab"
+  },
+  "fullName": "EL AMIRI BOUCHRA",
+  "password": "$2b$12$GdTSE5Ui7XDlTkuO085zkeDWM2Mrq.F5sQzqZr5sKa2P/lIjySF1S",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C28",
+  "code": "CH005",
+  "created_at": {
+    "$date": "2025-01-02T18:34:04.576Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:34:04.576Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc1d0cae09e51b5d79ac"
+  },
+  "fullName": "LAMKADMI Sidi Mohamed ",
+  "password": "$2b$12$B4EQO7IRyX3CGhhsu.oxYeKcLKLS74c7CKmfJSG3z5vFy/7DUY5RG",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C28",
+  "code": "CH006",
+  "created_at": {
+    "$date": "2025-01-02T18:34:05.196Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:34:05.196Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc1d0cae09e51b5d79ad"
+  },
+  "fullName": "Ouhemi Hanane",
+  "password": "$2b$12$abwxlG0n3VM84HDQYKZ8vuqW4oQRw8QDVujM.4bmtJE9VkwprrZPi",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C28",
+  "code": "CH007",
+  "created_at": {
+    "$date": "2025-01-02T18:34:05.816Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:34:05.816Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc1e0cae09e51b5d79ae"
+  },
+  "fullName": "KRIMI BENCHEQROUN SANAE",
+  "password": "$2b$12$s1.JIGCwnh3uwxkfpyRML.HZ4AgLEa8Oe0S/YXtPM0KQKHSPpWZfS",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C28",
+  "code": "CH008",
+  "created_at": {
+    "$date": "2025-01-02T18:34:06.436Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:34:06.436Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc1f0cae09e51b5d79af"
+  },
+  "fullName": "Khouakhi Khadija ",
+  "password": "$2b$12$yUkbV.oi/aOUbM9JCq11XuH9j27d6m6Y/NmftZWzi8rArWW1zhI5W",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C28",
+  "code": "CH009",
+  "created_at": {
+    "$date": "2025-01-02T18:34:07.159Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:34:07.159Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc200cae09e51b5d79b0"
+  },
+  "fullName": "IDRISSI OMAR",
+  "password": "$2b$12$YNelXFwPYZ0nXF7WhuZEveYUxHrFKyyzoYwgfvZyZq9GDISUaaNDS",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C28",
+  "code": "CH010",
+  "created_at": {
+    "$date": "2025-01-02T18:34:07.876Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:34:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc200cae09e51b5d79b1"
+  },
+  "fullName": "HIRICH EL HOCINE",
+  "password": "$2b$12$z1AflTiWmLMjam4IKu95uOykOkPVP9Ctk9/IQ1outNy3JZ0F8fj4G",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C28",
+  "code": "CH011",
+  "created_at": {
+    "$date": "2025-01-02T18:34:08.825Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:34:08.825Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc210cae09e51b5d79b2"
+  },
+  "fullName": "EL WAZZIKI HANANE",
+  "password": "$2b$12$Xiqh3JIyW4Q2dkxhFvaKnujWg23Y5fd7ZLm.8vOdFwQlFpUPfPnNK",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C28",
+  "code": "CH012",
+  "created_at": {
+    "$date": "2025-01-02T18:34:09.507Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:34:09.507Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc220cae09e51b5d79b3"
+  },
+  "fullName": "EL HADDOURY JAMAL",
+  "password": "$2b$12$4nU5FJcVS15V.Ay6LfZkaeNPNbH217pz/SO4TdF2Rsass.iqseFd6",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C28",
+  "code": "CH013",
+  "created_at": {
+    "$date": "2025-01-02T18:34:10.296Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:34:10.296Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc230cae09e51b5d79b4"
+  },
+  "fullName": "Mohamed EL-AALAOUI",
+  "password": "$2b$12$xPbgyX1YrlTYJRcFnOQ3NeccSuv0JYfuNZCDqU0rAdho4JcmXZhxC",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C28",
+  "code": "CH014",
+  "created_at": {
+    "$date": "2025-01-02T18:34:10.976Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:34:10.976Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc230cae09e51b5d79b5"
+  },
+  "fullName": "AMAMOU ALI SRD",
+  "password": "$2b$12$vvyi83wxEjQ0OFZZ/o.xZeGVw9h3FRA9IAyDdbCnbr0FR1zMiFD5K",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C28",
+  "code": "CH015",
+  "created_at": {
+    "$date": "2025-01-02T18:34:11.768Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:34:11.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc250cae09e51b5d79b6"
+  },
+  "fullName": "AMAMOU ALI",
+  "password": "$2b$12$IqLDrpuKQuj4avWYve0RDuLFpsrZoAIvETyq6mCumxMIPLnx9aHTC",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C28",
+  "code": "CH016",
+  "created_at": {
+    "$date": "2025-01-02T18:34:13.075Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:34:13.075Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6776dc250cae09e51b5d79b7"
+  },
+  "fullName": "Rachid Aboutayeb",
+  "password": "$2b$12$dlOy0NMPOFIuQ49RWnZFx.b7dx4JprDQOZmmr963S7n/oWbeX8jtm",
+  "auth_token": "",
+  "role": "chercheur",
+  "status": "active",
+  "codeCentre": "C28",
+  "code": "CH017",
+  "created_at": {
+    "$date": "2025-01-02T18:34:13.687Z"
+  },
+  "updated_at": {
+    "$date": "2025-01-02T18:34:13.687Z"
+  }
+}]

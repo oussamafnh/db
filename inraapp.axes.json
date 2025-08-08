@@ -1,0 +1,646 @@
+[{
+  "_id": {
+    "$oid": "677193622f2ea956643af0d1"
+  },
+  "megaprojet_id": "677193622f2ea956643af0d0",
+  "AXE": "Amélioration génétique et biotechnologie des céréales au Maroc ",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "6771938c2f2ea956643af11a"
+  },
+  "megaprojet_id": "677193622f2ea956643af0d0",
+  "AXE": "Gestion intégrée de la culture des céréales ",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677193902f2ea956643af123"
+  },
+  "megaprojet_id": "677193622f2ea956643af0d0",
+  "AXE": "Valorisation agroindustrielle et amélioration technologique et nutritionnelle des céréales et dérivés. ",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677193932f2ea956643af129"
+  },
+  "megaprojet_id": "677193622f2ea956643af0d0",
+  "AXE": "Chaine de valeur, mécanismes de gouvernance et coordination des acteurs de la filière céréalière",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2025-01-03T02:48:55.404Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "677193982f2ea956643af132"
+  },
+  "megaprojet_id": "677193982f2ea956643af131",
+  "AXE": "Gestion des ressources génétiques",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677193a82f2ea956643af150"
+  },
+  "megaprojet_id": "677193982f2ea956643af131",
+  "AXE": "Optimisation de l’itinéraire technique et protection intégrée des légumineuses alimentaires ",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677193b12f2ea956643af162"
+  },
+  "megaprojet_id": "677193982f2ea956643af131",
+  "AXE": "Qualité et valorisation des produits issus des légumineuses alimentaires pour une meilleure valeur ajoutée",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677193b12f2ea956643af164"
+  },
+  "megaprojet_id": "677193982f2ea956643af131",
+  "AXE": "Analyse de la chaîne de valeur, les mécanismes de gouvernance et de coordination des acteurs de la filière légumineuse alimentaires",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677193b22f2ea956643af167"
+  },
+  "megaprojet_id": "677193b22f2ea956643af166",
+  "AXE": "Amélioration génétique et biotechnologie",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677193b82f2ea956643af172"
+  },
+  "megaprojet_id": "677193b22f2ea956643af166",
+  "AXE": "Agro-physiologie et protection ",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677193bb2f2ea956643af17a"
+  },
+  "megaprojet_id": "677193b22f2ea956643af166",
+  "AXE": "Valorisation technologique des graines oléagineuses",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677193bd2f2ea956643af180"
+  },
+  "megaprojet_id": "677193bd2f2ea956643af17f",
+  "AXE": "Amélioration génétique et exploitation de la diversité génétique des espèces fourragères",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677193c42f2ea956643af18f"
+  },
+  "megaprojet_id": "677193bd2f2ea956643af17f",
+  "AXE": "Amélioration des techniques culturales et de la gestion des cultures fourragères",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677193c82f2ea956643af19a"
+  },
+  "megaprojet_id": "677193c82f2ea956643af199",
+  "AXE": "Amélioration, caractérisation et conservation des ressources génétiques de l’olivier",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677193d32f2ea956643af1b0"
+  },
+  "megaprojet_id": "677193c82f2ea956643af199",
+  "AXE": "Gestion efficiente de l’irrigation et de la fertilisation pour une oléiculture durable et productive",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677193d62f2ea956643af1b6"
+  },
+  "megaprojet_id": "677193c82f2ea956643af199",
+  "AXE": " Protection de l’olivier\\Lutte intégrée contre les bios agresseurs communs de l’olivier ",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677193db2f2ea956643af1c0"
+  },
+  "megaprojet_id": "677193c82f2ea956643af199",
+  "AXE": "Protection de l’olivier\\Gestion intégrée des ennemis émergents : Cas de Xylella fastidiosa sur les oliviers",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677193db2f2ea956643af1c2"
+  },
+  "megaprojet_id": "677193c82f2ea956643af199",
+  "AXE": "Qualité et Valorisation des produits de l’olivier – impact des facteurs intrinsèques et extrinsèques.",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677193e42f2ea956643af1d0"
+  },
+  "megaprojet_id": "677193c82f2ea956643af199",
+  "AXE": " Chaines de valeur oléicoles, mécanismes de gouvernance et analyse des acteurs.",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677193e52f2ea956643af1d4"
+  },
+  "megaprojet_id": "677193e52f2ea956643af1d3",
+  "AXE": " Chaines de valeur oléicoles, mécanismes de gouvernance et analyse des acteurs\\biotechnologie",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-12-31T18:36:53.956Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "677193e62f2ea956643af1d6"
+  },
+  "megaprojet_id": "677193e52f2ea956643af1d3",
+  "AXE": "Diversification du profil des variétés et porte-greffes du verger national d’agrumes",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677193f02f2ea956643af1ea"
+  },
+  "megaprojet_id": "677193e52f2ea956643af1d3",
+  "AXE": "Développement de méthodes de lutte biologique et autres méthodes alternatives à la lutte chimique contre les parasites des agrumes",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677193fe2f2ea956643af20a"
+  },
+  "megaprojet_id": "677193e52f2ea956643af1d3",
+  "AXE": "Développement de stratégies durables de gestion de l’irrigation, la fertilisation et de la fertigation des agrumes",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194092f2ea956643af221"
+  },
+  "megaprojet_id": "677193e52f2ea956643af1d3",
+  "AXE": " Amélioration de la qualité, diversification des produits transformés à base d’agrumes et commercialisation.",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "6771940b2f2ea956643af227"
+  },
+  "megaprojet_id": "6771940b2f2ea956643af226",
+  "AXE": "Contribution à la reconstitution de la palmeraie par la sélection, la multiplication et la conservation des ressources génétiques phoenicicoles\\biotechnologie",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "6771940d2f2ea956643af22d"
+  },
+  "megaprojet_id": "6771940b2f2ea956643af226",
+  "AXE": "Contribution à la reconstitution de la palmeraie par la sélection, la multiplication et la conservation des ressources génétiques phoenicicoles\\multiplication et conservation",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "6771941d2f2ea956643af24c"
+  },
+  "megaprojet_id": "6771940b2f2ea956643af226",
+  "AXE": "Economie de l'eau, gestion de la fertilité des sols et optimisation des techniques de production",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194242f2ea956643af25a"
+  },
+  "megaprojet_id": "6771940b2f2ea956643af226",
+  "AXE": "Gestion phytosanitaire de la palmeraie",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194292f2ea956643af263"
+  },
+  "megaprojet_id": "6771940b2f2ea956643af226",
+  "AXE": "Valorisation technologique et agro-industrie des dattes",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194302f2ea956643af274"
+  },
+  "megaprojet_id": "677194302f2ea956643af273",
+  "AXE": "Valorisation technologique et agro-industrie des dattes\\biotehnologie",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194322f2ea956643af278"
+  },
+  "megaprojet_id": "677194302f2ea956643af273",
+  "AXE": "Valorisation technologique et agro-industrie des dattes\\Amélioration et conservation des ressources génétiques",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "6771943f2f2ea956643af291"
+  },
+  "megaprojet_id": "677194302f2ea956643af273",
+  "AXE": "Optimisation de la gestion des systèmes de production\\Optimisation de la gestion des systèmes de production / Irrigation, fertilisation et multiplication ",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194482f2ea956643af2a1"
+  },
+  "megaprojet_id": "677194302f2ea956643af273",
+  "AXE": "Optimisation de la gestion des systèmes de production\\Optimisation de la gestion des systèmes de production / Protection phytosanitaire ",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194552f2ea956643af2bb"
+  },
+  "megaprojet_id": "677194302f2ea956643af273",
+  "AXE": "Qualité et valorisation technologique de la production fruitière.",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194682f2ea956643af2dd"
+  },
+  "megaprojet_id": "677194672f2ea956643af2dc",
+  "AXE": "Qualité et valorisation technologique de la production fruitière\\biotechnologie",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194692f2ea956643af2e0"
+  },
+  "megaprojet_id": "677194672f2ea956643af2dc",
+  "AXE": "Innovation des techniques de production horticole",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "6771946d2f2ea956643af2e8"
+  },
+  "megaprojet_id": "677194672f2ea956643af2dc",
+  "AXE": " Lutte intégrée contre les ennemis des cultures maraîchères",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194712f2ea956643af2f0"
+  },
+  "megaprojet_id": "677194672f2ea956643af2dc",
+  "AXE": "Production en mode biologique des cultures maraîchères",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194742f2ea956643af2f6"
+  },
+  "megaprojet_id": "677194672f2ea956643af2dc",
+  "AXE": "Agriculture de précision en cultures maraîchères",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194742f2ea956643af2f9"
+  },
+  "megaprojet_id": "677194742f2ea956643af2f8",
+  "AXE": "Agriculture de précision en cultures maraîchères",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194752f2ea956643af2fc"
+  },
+  "megaprojet_id": "677194742f2ea956643af2f8",
+  "AXE": "Agroécologie et protection de l’environnement de la culture de la fraise et des petits fruits rouges",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194792f2ea956643af303"
+  },
+  "megaprojet_id": "677194742f2ea956643af2f8",
+  "AXE": "Valorisation et amélioration de la qualité des petits fruits. ",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "6771947a2f2ea956643af307"
+  },
+  "megaprojet_id": "6771947a2f2ea956643af306",
+  "AXE": "Gestion de la biodiversité et amélioration génétique\\biotechnologie",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "6771947f2f2ea956643af310"
+  },
+  "megaprojet_id": "6771947a2f2ea956643af306",
+  "AXE": "Gestion de la biodiversité et amélioration génétique\\ biodiversité et amélioration génétique",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194802f2ea956643af315"
+  },
+  "megaprojet_id": "6771947a2f2ea956643af306",
+  "AXE": "Multiplication et production de plants en pépinière de l’arganier",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194872f2ea956643af321"
+  },
+  "megaprojet_id": "6771947a2f2ea956643af306",
+  "AXE": "Gestion technique des plateformes-vergers",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "6771948e2f2ea956643af32f"
+  },
+  "megaprojet_id": "6771947a2f2ea956643af306",
+  "AXE": "Qualité et Typicité des huiles d’Argan et Protection technologique du savoir-faire local de l’Arganier ",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194912f2ea956643af337"
+  },
+  "megaprojet_id": "6771947a2f2ea956643af306",
+  "AXE": "Chaine de valeur, mécanismes de gouvernance et analyse des acteurs",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194922f2ea956643af33b"
+  },
+  "megaprojet_id": "677194922f2ea956643af33a",
+  "AXE": "Amélioration de la productivité et de la valorisation du cactus",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194a12f2ea956643af35a"
+  },
+  "megaprojet_id": "677194922f2ea956643af33a",
+  "AXE": "Valorisation technologique du cactus et ses sous-produits pour usage humain",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194a62f2ea956643af364"
+  },
+  "megaprojet_id": "677194a52f2ea956643af363",
+  "AXE": "Valorisation technologique du cactus et ses sous-produits pour usage humain\\Biotechnologie :",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194a82f2ea956643af368"
+  },
+  "megaprojet_id": "677194a52f2ea956643af363",
+  "AXE": "Valorisation technologique du cactus et ses sous-produits pour usage humain\\Inventaire, évaluation, cartographie et conservation des espèces de PAM du genre Capparis, et des espèces endémiques et très recherchées du genre Artémisia et Thymus",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194af2f2ea956643af376"
+  },
+  "megaprojet_id": "677194a52f2ea956643af363",
+  "AXE": "Etude de la diversité morphologique et la phénologie des armoises au Maroc  ",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194b22f2ea956643af37b"
+  },
+  "megaprojet_id": "677194a52f2ea956643af363",
+  "AXE": "Valorisation et qualité des plantes aromatiques et médicinales autochtones",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194b82f2ea956643af386"
+  },
+  "megaprojet_id": "677194b72f2ea956643af385",
+  "AXE": "Sélection et multiplication végétative des cormes performants de safran ",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194b92f2ea956643af389"
+  },
+  "megaprojet_id": "677194b72f2ea956643af385",
+  "AXE": "Développement de la conduite technique du safran ",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194ba2f2ea956643af38c"
+  },
+  "megaprojet_id": "677194b72f2ea956643af385",
+  "AXE": " Valorisation des sous-produits de safran",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194bb2f2ea956643af38f"
+  },
+  "megaprojet_id": "677194bb2f2ea956643af38e",
+  "AXE": " Valorisation des sous-produits de safran\\biotechnologie",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194bc2f2ea956643af391"
+  },
+  "megaprojet_id": "677194bb2f2ea956643af38e",
+  "AXE": "Sélection de variétés de cannabis médical parmi les écotypes locaux des provinces de Chefchaouen, Al Hoceima et Taounate ",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194bd2f2ea956643af394"
+  },
+  "megaprojet_id": "677194bc2f2ea956643af393",
+  "AXE": "Caractérisation et gestion innovante des ressources génétiques locales",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194c82f2ea956643af3a9"
+  },
+  "megaprojet_id": "677194bc2f2ea956643af393",
+  "AXE": "Diversification, caractérisation des nouvelles ressources alimentaires locales et maîtrise de leur utilisation par les animaux",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194d42f2ea956643af3bb"
+  },
+  "megaprojet_id": "677194bc2f2ea956643af393",
+  "AXE": "Caractérisation Valorisation et qualité des produits d’origine animales",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194d62f2ea956643af3bf"
+  },
+  "megaprojet_id": "677194bc2f2ea956643af393",
+  "AXE": "Axe Activité Investigateur principal CRRA d’action Source de financement* (CRRA-Tanger)",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194d72f2ea956643af3c2"
+  },
+  "megaprojet_id": "677194d62f2ea956643af3c1",
+  "AXE": "Evaluation de la situation actuelle de la filière cameline au Maroc : Sud et Sud-Est ",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194d82f2ea956643af3c6"
+  },
+  "megaprojet_id": "677194d62f2ea956643af3c1",
+  "AXE": " Etude de la consistance génomique des camelins au Maroc : Sud et Sud-Est",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194da2f2ea956643af3ca"
+  },
+  "megaprojet_id": "677194d62f2ea956643af3c1",
+  "AXE": "axe3",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194dc2f2ea956643af3d0"
+  },
+  "megaprojet_id": "677194dc2f2ea956643af3cf",
+  "AXE": "Etude de la qualité des eaux et des sols, séquestration de carbone, conception de biofertilisants et recyclage (Compostage, Biochar..)",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194e92f2ea956643af3e9"
+  },
+  "megaprojet_id": "677194dc2f2ea956643af3cf",
+  "AXE": "Systèmes résilients : Semis direct /Agroforesterie",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194f02f2ea956643af3f7"
+  },
+  "megaprojet_id": "677194dc2f2ea956643af3cf",
+  "AXE": "Développement de l'agroforesterie en zones arides et semi-arides pour une agriculture résiliente",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194f42f2ea956643af400"
+  },
+  "megaprojet_id": "677194dc2f2ea956643af3cf",
+  "AXE": "Faciliter l’acceptation et l’adoption à grande échelle des principes de l'agriculture de conservation dans les régions de Saïss, Zaër et Chaouia",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194f72f2ea956643af406"
+  },
+  "megaprojet_id": "677194f72f2ea956643af405",
+  "AXE": " Analyse de la vulnérabilité et de l’adaptation des éleveurs de la zone des Hauts Plateaux de l’Oriental (HPO) face aux changements climatiques et Impact des innovations institutionnelles",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194f82f2ea956643af409"
+  },
+  "megaprojet_id": "677194f72f2ea956643af405",
+  "AXE": " Gestion et réhabilitation des parcours steppiques de l’Oriental et du pré-sahara",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194fc2f2ea956643af411"
+  },
+  "megaprojet_id": "677194f72f2ea956643af405",
+  "AXE": "Smart Grazing : Étude des pâturages et comportement des caprins sur parcours par utilisation de nouvelles technologies",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194fe2f2ea956643af417"
+  },
+  "megaprojet_id": "677194fe2f2ea956643af416",
+  "AXE": "Vocation des Terres Agricoles et Changement Climatique ",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677195052f2ea956643af424"
+  },
+  "megaprojet_id": "677194fe2f2ea956643af416",
+  "AXE": "Dynamique des Systèmes Agricoles Sensibles au Climat",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677195082f2ea956643af42c"
+  },
+  "megaprojet_id": "677194fe2f2ea956643af416",
+  "AXE": "Standardisation du Système Big Data",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677195092f2ea956643af430"
+  },
+  "megaprojet_id": "677194fe2f2ea956643af416",
+  "AXE": "Modélisation agro-économique",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "6771950b2f2ea956643af435"
+  },
+  "megaprojet_id": "6771950b2f2ea956643af434",
+  "AXE": "Modélisation agro-économique",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677195242f2ea956643af463"
+  },
+  "megaprojet_id": "6771950b2f2ea956643af434",
+  "AXE": "Diffusion et promotion",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677195262f2ea956643af467"
+  },
+  "megaprojet_id": "6771950b2f2ea956643af434",
+  "AXE": "Innovation",
+  "status": "active"
+}]

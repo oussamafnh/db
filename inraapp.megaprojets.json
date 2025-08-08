@@ -1,0 +1,204 @@
+[{
+  "_id": {
+    "$oid": "677193622f2ea956643af0d0"
+  },
+  "MEGAPROJET": "Amélioration de la production céréalière nationale dans le contexte du changement climatique",
+  "filiere": "Céréales",
+  "COORDINATEUR": "JILAL Abderrazek",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2025-01-03T02:48:32.431Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "677193982f2ea956643af131"
+  },
+  "MEGAPROJET": "Amélioration de la productivité et valorisation des légumineuses alimentaires pour un meilleur développement agricole durable",
+  "filiere": "Légumineuses alimentaires",
+  "COORDINATEUR": "IDRISSI Omar",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2025-01-26T20:02:56.923Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "677193b22f2ea956643af166"
+  },
+  "MEGAPROJET": "Amélioration de la productivité, de la qualité et de l’adaptation des cultures oléagineuses et valorisation technologique des variétés marocaines",
+  "filiere": " Oléagineux annuels",
+  "COORDINATEUR": "NABLOUSSI Abdelghani",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2025-01-03T02:48:40.312Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "677193bd2f2ea956643af17f"
+  },
+  "MEGAPROJET": "Amélioration de la production des cultures fourragères pour des systèmes d’élevages durables",
+  "filiere": " Fourrages",
+  "COORDINATEUR": "KALLIDA Rajae",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2025-01-03T02:48:43.713Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "677193c82f2ea956643af199"
+  },
+  "MEGAPROJET": "Amsélioration de la productivité, de la durabilité et de la compétitivité de l'oléiculture marocaine face aux changements globauxs",
+  "filiere": "Olivier",
+  "COORDINATEUR": "EL-ANTARI Abderraouf",
+  "status": "active",
+  "updatedAt": {
+    "$date": "2025-01-03T02:48:47.228Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "677193e52f2ea956643af1d3"
+  },
+  "MEGAPROJET": "Amélioration de la productivité et de la compétitivité des agrumes",
+  "filiere": "Agrumes",
+  "COORDINATEUR": "BENAOUDA Hassan",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "6771940b2f2ea956643af226"
+  },
+  "MEGAPROJET": "Amélioration de la productivité et de la compétitivité du palmier dattier",
+  "filiere": "Palmier dattier",
+  "COORDINATEUR": "MEZIANI Reda",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194302f2ea956643af273"
+  },
+  "MEGAPROJET": "Amélioration de la durabilité et la compétitivité de la production fruitière et viticole",
+  "filiere": "Arboriculture-Viticulture",
+  "COORDINATEUR": "RAZOUK Rachid",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194672f2ea956643af2dc"
+  },
+  "MEGAPROJET": "Amélioration de la productivité et de la compétitivité de la filière maraîchère",
+  "filiere": "Maraîchage",
+  "COORDINATEUR": "WIFAYA Ahmed",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194742f2ea956643af2f8"
+  },
+  "MEGAPROJET": "Contribution au développement de la filière des petits fruits rouges",
+  "filiere": " Fruits Rouges",
+  "COORDINATEUR": "HAMIM Ahlam",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "6771947a2f2ea956643af306"
+  },
+  "MEGAPROJET": "Amélioration de la productivité, de la rentabilité et de la durabilité du système arganiculture-arganeraie face au changement climatique",
+  "filiere": "Arganier",
+  "COORDINATEUR": " MIMOUNI Abdelaziz",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194922f2ea956643af33a"
+  },
+  "MEGAPROJET": "Amélioration de la productivité et de la valorisation du cactus",
+  "filiere": "Cactus",
+  "COORDINATEUR": "BOUHARROUD Rachid",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194a52f2ea956643af363"
+  },
+  "MEGAPROJET": "Valorisation des plantes aromatiques et médicinales à haut potentiel économique et environnemental",
+  "filiere": "Plantes Aromatiques et Médicinales",
+  "COORDINATEUR": "ZANTAR Said",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194b72f2ea956643af385"
+  },
+  "MEGAPROJET": "Safran ",
+  "filiere": "Plantes Aromatiques et Médicinales",
+  "COORDINATEUR": "ZANTAR Said",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194bb2f2ea956643af38e"
+  },
+  "MEGAPROJET": "Cannabis ",
+  "filiere": "Plantes Aromatiques et Médicinales",
+  "COORDINATEUR": "Chentouf Mouad",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194bc2f2ea956643af393"
+  },
+  "MEGAPROJET": "Amélioration de la productivité et la compétitivité des élevages ovins, caprins et bovins pour des systèmes résilients et durables",
+  "filiere": "Viandes rouges",
+  "COORDINATEUR": "EL AMIRI Bouchra",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194d62f2ea956643af3c1"
+  },
+  "MEGAPROJET": "Caractérisation des populations camelines et de leurs produits au Sud et au Sud-Est du Maroc",
+  "filiere": "Camelin",
+  "COORDINATEUR": "IBNELBACHYR Mustapha",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194dc2f2ea956643af3cf"
+  },
+  "MEGAPROJET": "Développement des pratiques agroécologiques pour des systèmes agricoles résilients en zones semi-arides",
+  "filiere": "Agroécologie",
+  "COORDINATEUR": "MOUSSADEK Rachid",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194f72f2ea956643af405"
+  },
+  "MEGAPROJET": "Conservation et gestion durable des parcours dans le contexte des changements climatique, socioéconomique et institutionnel",
+  "filiere": "Gestion des parcours",
+  "COORDINATEUR": "MAATOUGUI Abdesselam",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "677194fe2f2ea956643af416"
+  },
+  "MEGAPROJET": "Outils d'aide à la décision pour la gestion prévisionnelle",
+  "filiere": "Agriculture digitale",
+  "COORDINATEUR": "IAAICH Hamza",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "6771950b2f2ea956643af434"
+  },
+  "MEGAPROJET": "Diffusion et Transfert de technologies",
+  "filiere": "Agriculture digitale",
+  "COORDINATEUR": "MOUAAID Abdelali",
+  "status": "active"
+}]

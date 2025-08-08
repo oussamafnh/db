@@ -1,0 +1,273 @@
+[{
+  "_id": {
+    "$oid": "6776e13484c8afb3be8b1b1b"
+  },
+  "activite_id": "677194ba2f2ea956643af38d",
+  "day": {
+    "$date": "2025-01-02T00:00:00.000Z"
+  },
+  "user_id": "6776dbfd0cae09e51b5d7980",
+  "user_full_name": "CHETTO Ouiam",
+  "value": 2,
+  "megaprojet_id": "677194b72f2ea956643af385",
+  "axe_id": "677194ba2f2ea956643af38c",
+  "createdAt": {
+    "$date": "2025-01-02T18:55:48.668Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-02T18:55:48.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776e15684c8afb3be8b1b2e"
+  },
+  "activite_id": "677193e62f2ea956643af1d8",
+  "day": {
+    "$date": "2025-01-02T00:00:00.000Z"
+  },
+  "user_id": "6776dbfd0cae09e51b5d7980",
+  "user_full_name": "CHETTO Ouiam",
+  "value": 6,
+  "megaprojet_id": "677193e52f2ea956643af1d3",
+  "axe_id": "677193e62f2ea956643af1d6",
+  "createdAt": {
+    "$date": "2025-01-02T18:56:22.687Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-02T18:56:22.687Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776ec0cb93ae6b1e597996e"
+  },
+  "activite_id": "6771941e2f2ea956643af250",
+  "day": {
+    "$date": "2025-01-02T00:00:00.000Z"
+  },
+  "user_id": "6776dbfd0cae09e51b5d7980",
+  "user_full_name": "CHETTO Ouiam",
+  "value": 4,
+  "megaprojet_id": "6771940b2f2ea956643af226",
+  "axe_id": "6771941d2f2ea956643af24c",
+  "createdAt": {
+    "$date": "2025-01-02T19:42:04.605Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-02T19:42:04.605Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6777358d50e1df465ffce583"
+  },
+  "activite_id": "677193e62f2ea956643af1d8",
+  "day": {
+    "$date": "2025-01-01T00:00:00.000Z"
+  },
+  "user_id": "6776dbfd0cae09e51b5d7980",
+  "user_full_name": "CHETTO Ouiam",
+  "value": 4,
+  "megaprojet_id": "677193e52f2ea956643af1d3",
+  "axe_id": "677193e62f2ea956643af1d6",
+  "createdAt": {
+    "$date": "2025-01-03T00:55:41.734Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-03T00:55:41.734Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6777afbf51525f3666ad4565"
+  },
+  "activite_id": "6771936b2f2ea956643af0e1",
+  "day": {
+    "$date": "2025-01-03T00:00:00.000Z"
+  },
+  "user_id": "6776dbfd0cae09e51b5d7980",
+  "user_full_name": "CHETTO Ouiam",
+  "value": 5,
+  "megaprojet_id": "677193622f2ea956643af0d0",
+  "axe_id": "677193622f2ea956643af0d1",
+  "createdAt": {
+    "$date": "2025-01-03T09:37:03.706Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-03T09:37:03.706Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6777afde51525f3666ad456d"
+  },
+  "activite_id": "677193682f2ea956643af0dd",
+  "day": {
+    "$date": "2025-01-03T00:00:00.000Z"
+  },
+  "user_id": "6776dbfd0cae09e51b5d7980",
+  "user_full_name": "CHETTO Ouiam",
+  "value": 3,
+  "megaprojet_id": "677193622f2ea956643af0d0",
+  "axe_id": "677193622f2ea956643af0d1",
+  "createdAt": {
+    "$date": "2025-01-03T09:37:34.667Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-03T09:37:34.667Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6777d1a7bfec72383c49d248"
+  },
+  "activite_id": "677193632f2ea956643af0d3",
+  "day": {
+    "$date": "2025-01-03T00:00:00.000Z"
+  },
+  "user_id": "6776dbfd0cae09e51b5d7980",
+  "user_full_name": "CHETTO Ouiam",
+  "value": 7,
+  "megaprojet_id": "677193622f2ea956643af0d0",
+  "axe_id": "677193622f2ea956643af0d1",
+  "createdAt": {
+    "$date": "2025-01-03T12:01:43.386Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-03T12:01:43.386Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6777d24abfec72383c49d287"
+  },
+  "activite_id": "677193be2f2ea956643af182",
+  "day": {
+    "$date": "2024-12-28T00:00:00.000Z"
+  },
+  "user_id": "6776dbfd0cae09e51b5d7980",
+  "user_full_name": "CHETTO Ouiam",
+  "value": 8,
+  "megaprojet_id": "677193bd2f2ea956643af17f",
+  "axe_id": "677193bd2f2ea956643af180",
+  "createdAt": {
+    "$date": "2025-01-03T12:04:26.006Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-03T12:04:26.006Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677c06e39fed2cf48224d57e"
+  },
+  "activite_id": "677193622f2ea956643af0d2",
+  "day": {
+    "$date": "2024-12-11T00:00:00.000Z"
+  },
+  "user_id": "6776dbfd0cae09e51b5d7980",
+  "user_full_name": "CHETTo OUIAM",
+  "value": 5,
+  "megaprojet_id": "677193622f2ea956643af0d0",
+  "axe_id": "677193622f2ea956643af0d1",
+  "createdAt": {
+    "$date": "2025-01-06T16:37:55.350Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-06T16:37:55.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677c06f49fed2cf48224d588"
+  },
+  "activite_id": "677193632f2ea956643af0d3",
+  "day": {
+    "$date": "2024-11-18T00:00:00.000Z"
+  },
+  "user_id": "6776dbfd0cae09e51b5d7980",
+  "user_full_name": "CHETTo OUIAM",
+  "value": 8,
+  "megaprojet_id": "677193622f2ea956643af0d0",
+  "axe_id": "677193622f2ea956643af0d1",
+  "createdAt": {
+    "$date": "2025-01-06T16:38:12.918Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-06T16:38:12.918Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679b66edade619e01cf2b251"
+  },
+  "activite_id": "677193622f2ea956643af0d2",
+  "day": {
+    "$date": "2025-01-30T00:00:00.000Z"
+  },
+  "user_id": "6776dbfd0cae09e51b5d7980",
+  "user_full_name": "Chetto ouiam",
+  "value": 5,
+  "megaprojet_id": "677193622f2ea956643af0d0",
+  "axe_id": "677193622f2ea956643af0d1",
+  "createdAt": {
+    "$date": "2025-01-30T11:47:57.645Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T11:47:57.645Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679b66f9ade619e01cf2b259"
+  },
+  "activite_id": "677193652f2ea956643af0d6",
+  "day": {
+    "$date": "2025-01-30T00:00:00.000Z"
+  },
+  "user_id": "6776dbfd0cae09e51b5d7980",
+  "user_full_name": "Chetto ouiam",
+  "value": 3,
+  "megaprojet_id": "677193622f2ea956643af0d0",
+  "axe_id": "677193622f2ea956643af0d1",
+  "createdAt": {
+    "$date": "2025-01-30T11:48:09.377Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T11:48:09.377Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679b67aeade619e01cf2b27c"
+  },
+  "activite_id": "677193952f2ea956643af12c",
+  "day": {
+    "$date": "2025-01-30T00:00:00.000Z"
+  },
+  "user_id": "6776dbfd0cae09e51b5d7980",
+  "user_full_name": "Chetto ouiam",
+  "value": 2,
+  "megaprojet_id": "677193622f2ea956643af0d0",
+  "axe_id": "677193932f2ea956643af129",
+  "createdAt": {
+    "$date": "2025-01-30T11:51:10.510Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T11:51:10.510Z"
+  },
+  "__v": 0
+}]
